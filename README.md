@@ -58,9 +58,7 @@ END
 
 ```
 ## OUTPUT
-
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7e41f7c8-3f7b-418c-94e4-804fa21dd4fa" />
-
+![OUTPUT](https://github.com/user-attachments/assets/65e4059a-be89-4501-b256-73c8fee0cea1)
 
 
 ---
